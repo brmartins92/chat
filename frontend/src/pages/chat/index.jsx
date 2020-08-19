@@ -18,7 +18,7 @@ class Chat extends Component {
 
   render() {
     return (
-      <Container>
+      <Container style={background}>
         <Row>
           <Col sm={9}>
             <div style={divChat}>
